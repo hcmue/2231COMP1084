@@ -4,7 +4,7 @@
 * Sử dụng thẻ meta open graph để SEO sản phẩm đó
 * Thêm chat support
 
-## 1. Open Graph meta tags hỗ trợ các social
+## 1. Open Graph meta tags hỗ trợ các social (làm cho mỗi sản phẩm)
 Ví dụ cho FB:
 ```
 <meta property="og:url"                content="http://www.nytimes.com/2015/02/19/arts/international/when-great-minds-dont-think-alike.html" />
@@ -30,15 +30,17 @@ Ví dụ cho FB:
 }
 ```
 
-## 2. Live Chat
+## 2. Live Chat (chung cho trang)
 * Tawk to: https://www.tawk.to/
 * Subiz https://subiz.com/vi/
 * ZenDesk https://www.zendesk.com/
 * FB
 
-## 3. Host lên internet
+## 3. Host lên internet (chung cho trang)
 Có thể sử dụng chức năng publish page của GitHub
 
 
-## 4. URL friendly
+## 4. URL friendly (cho mỗi sản phẩm)
 dạng giống tên sản phẩm mà dùng kí tự thường với dấu gạch giữa
+
+## 5. SEOquake
