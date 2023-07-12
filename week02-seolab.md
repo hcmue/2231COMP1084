@@ -38,3 +38,7 @@ Ví dụ cho FB:
 
 ## 3. Host lên internet
 Có thể sử dụng chức năng publish page của GitHub
+
+
+## 4. URL friendly
+dạng giống tên sản phẩm mà dùng kí tự thường với dấu gạch giữa
